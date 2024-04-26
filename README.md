@@ -5,3 +5,4 @@ Further studied lecture and implementation\
 Studied slope and matrix usage in dl\
 Vectors and matrix \
 Gradient Descent For Neural Network \
+Implementation of GD using python
